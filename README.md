@@ -17,4 +17,8 @@ This project emphasizes a "Business Problem First" approach, focusing on cost an
 * **Model Explainability:** SHAP
 * **Data Processing:** Pandas, NumPy
 * **Visualization:** Matplotlib
-
+* 
+##  Data Source
+This project utilizes the [Home Credit Default Risk dataset](https://www.kaggle.com/c/home-credit-default-risk) from Kaggle.
+*   **Source:** Home Credit Default Risk Competition.
+*   **Description:** The dataset contains loan application data, credit history, and payment behavior, requiring extensive feature engineering and handling of imbalanced classes.
